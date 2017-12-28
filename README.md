@@ -1,4 +1,4 @@
-# Sunrin_C_Programming_Question_Report
+﻿# Sunrin_C_Programming_Question_Report
 2017학년도 선린인터넷고 정보통신과 1학년 2학기 C언어를 이용한 문제 만들기 수행평가
 
-총 2문제를 출제하였습니다.
+총 2문제를 출제하였고 나중에 프로그래밍하는 친구를 도와주고 나서 1문제를 추가로 출제하여 총 3문제를 출제하였습니다.
